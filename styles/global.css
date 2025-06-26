@@ -31,3 +31,39 @@
   --text-mdm: 400 16px/140% var(--maven-pro);
   --text-smm: 400 14px/140% var(--maven-pro);
 }
+
+.subtitle {
+  font: var(--subtitle);
+  color: var(--gray-2);
+}
+
+.title-lg {
+  font: var(--title-lg);
+  color: var(--gray-1);
+}
+
+.title-mda{
+  font: var(--title-mda);
+}
+
+.title-sma {
+  font: var(--title-sma);
+}
+
+.text-code {
+  font: var(--text-code);
+}
+
+.text-mdm {
+  font: var(--text-mdm);
+  color: var(--gray-2);
+}
+
+.text-smm {
+  font: var(--text-smm);
+  color: var(--gray-3);
+}
+
+.grid {
+  display: grid;
+}

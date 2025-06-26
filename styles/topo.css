@@ -1,0 +1,52 @@
+#topo {
+  width: 100%;
+  background-image: url(/assets/image/Background_Intro.png);
+  background-size: cover; 
+  background-position: center;
+}
+
+.intro {
+  height: 750px;
+  align-content: center;
+  text-align: center;
+  
+}
+
+.avatar img {
+  width: 96px;
+  border-radius: 50%;
+}
+
+.subhello {
+  padding-top: 56px;
+}
+
+.text-trans {
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+
+#tags {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.tags {
+  display: flex;
+  background-color: var(--gray-4);
+  width: 114px;
+  height: 40px;
+  border-radius: 16px;
+  padding: 16px 8px;
+  justify-content: center;
+  gap: 8px;
+  padding-block: 8px;
+}
+
+.tags img {
+  width: 24px;
+}
+
+
+
