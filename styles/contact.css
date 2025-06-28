@@ -38,7 +38,7 @@
 .redes {
   display: flex;
   margin-left: 10px;
-  font: var(--text-md);
+  font: var(--text-mdm);
   color: var(--gray-2);
   width: 288px;
 }
