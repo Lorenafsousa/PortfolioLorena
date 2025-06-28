@@ -1,0 +1,22 @@
+#services {
+  background-color: var(--gray-6);
+  padding: 88px 120px 120px;
+}
+
+.services {
+  padding-top: 5px;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.services-item {
+  border: 1px solid var(--gray-4);
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.services-item img {
+  padding-bottom: 20px;
+  width: 48px;
+}

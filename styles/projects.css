@@ -3,16 +3,6 @@
   padding: 72px 120px 144px;
 }
 
-.red {
-  color: var(--red);
-  font: var(--subtitle)
-}
-
-.head {
-  text-align: center;
-  padding-bottom: 56px;
-}
-
 .projects {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 24px;

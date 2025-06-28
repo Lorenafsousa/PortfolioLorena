@@ -69,3 +69,13 @@
 .grid {
   display: grid;
 }
+
+.head {
+  text-align: center;
+  padding-bottom: 56px;
+}
+
+.red {
+  color: var(--red);
+  font: var(--subtitle)
+}
