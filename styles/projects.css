@@ -1,0 +1,37 @@
+#projects {
+  background-color: var(--gray-5);
+  padding: 72px 120px 144px;
+}
+
+.red {
+  color: var(--red);
+  font: var(--subtitle)
+}
+
+.head {
+  text-align: center;
+  padding-bottom: 56px;
+}
+
+.projects {
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 24px;
+  width: 1040px;
+  height: 584px;
+  place-self: center;
+  
+}
+
+.item-project {
+  background-color: var(--gray-4);
+  padding: 12px;
+  border-radius: 12px;
+  width: 330px;
+  height: 280px;
+}
+
+.item-project img {
+  width: 306px;
+  height: 156px;
+  border-radius: 8px;
+}

@@ -44,10 +44,12 @@
 
 .title-mda{
   font: var(--title-mda);
+  color: var(--gray-1);
 }
 
 .title-sma {
   font: var(--title-sma);
+  color: var(--gray-1);
 }
 
 .text-code {

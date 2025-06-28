@@ -13,7 +13,7 @@
 }
 
 .avatar img {
-  width: 96px;
+  width: 150px;
   border-radius: 50%;
 }
 
@@ -24,6 +24,7 @@
 .text-trans {
   padding-top: 20px;
   padding-bottom: 80px;
+  font-size: 16px;
 }
 
 #tags {
@@ -48,5 +49,11 @@
   width: 24px;
 }
 
+.seta {
+  padding-top: 94px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
+}
 
 
